@@ -45,7 +45,7 @@
     ### 재고 - 삭제
     <img src="./readme_media/delete_stock.gif">
     
-    - 관리자 로그인후 재고 수정 가능
+    - 관리자 로그인후 재고 삭제 가능
     
   ## 회원
     
