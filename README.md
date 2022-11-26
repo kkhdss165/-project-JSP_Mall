@@ -7,7 +7,8 @@
 - 쿠키를 이용한 장바구니 구현
 
   ## 상품
-    <img src="./readme_media/admin_login.gif" width="20%" height="20%">
+    <img src="./readme_media/admin_login.gif">
+    
     - 상품과 재고를 관리하기 위해 관리자 로그인 필요
     ### 추가
     ### 수정
