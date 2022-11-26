@@ -10,20 +10,34 @@
     <img src="./readme_media/admin_login.gif">
     
     - 상품과 재고를 관리하기 위해 관리자 로그인 필요
-    ### 추가
+    ### 상품 - 추가
     <img src="./readme_media/create_product.gif">
     
     - 관리자 로그인후 상품 추가 가능
-    ### 수정
-    ### 삭제
+    ### 상품 - 수정
+    <img src="./readme_media/update_product.gif">
+    
+    - 관리자 로그인후 상품 수정 가능
+    ### 상품 - 삭제
   ## 재고
-    ### 추가
-    ### 수정
-    ### 삭제
+    ### 재고 - 추가
+    <img src="./readme_media/create_stock.gif">
+    
+    - 관리자 로그인후 재고 추가 가능
+    
+    ### 재고 - 수정
+    <img src="./readme_media/update_stock.gif">
+    
+    - 관리자 로그인후 재고 수정 가능
+    ### 재고 - 삭제
   ## 회원
-    ### 추가
-    ### 수정
-    ### 삭제
+    ### 회원 - 등록
+    <img src="./readme_media/create_member.gif">
+    
+    ### 회원 - 수정
+    <img src="./readme_media/update_member.gif">
+    
+    ### 회원 - 삭제
    
   ## 주문
   
