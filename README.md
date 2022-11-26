@@ -5,12 +5,13 @@
 - JSP(JavaServer Pages) 쇼핑몰 프로젝트
 - 데이터베이스(MySQL)를 활용하여, 회원, 상품, 재고의 CRUD 구현
 - 쿠키를 이용한 장바구니 구현
-- 웹서버는 <a href = "Apache Tomcat" >Apache Tomcat</a>를 사용
+- 웹서버는 <a href = "Apache Tomcat" >Apache Tomcat</a>을 사용
 
   ## 상품
     <img src="./readme_media/admin_login.gif">
     
     - 상품과 재고를 관리하기 위해 관리자 로그인 필요
+    
     <img src="./readme_media/security.png">
     
     - 관리자 계정은 web.xml 시큐리티(security)활용
@@ -83,7 +84,7 @@
 ## <개발환경>
 - IDE : Eclipse
 - Web Server : Apache Tomcat
-- Hardware : AMD RYZEN 2200G(4core) RAM 8GB
+- Hardware : AMD RYZEN 2200G(4core)  RAM 8GB
 
 ## <개발기간>
 - 2021년 6월(1주)
