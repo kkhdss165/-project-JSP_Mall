@@ -37,15 +37,26 @@
     ### 회원 - 수정
     <img src="./readme_media/update_member.gif">
     
-    ### 회원 - 삭제
+    ### 회원 - 탈퇴
    
   ## 주문
-  
+    ### 장바구니
+    <img src="./readme_media/cart.gif">
+    
+    ### 결제
+    <img src="./readme_media/payment.gif">
+    
+    ### 주문정보
+    <img src="./readme_media/order_info.gif">
+    
+    ### 평가
+    <img src="./readme_media/review.gif">
+    
   
   
 ## <개발환경>
 - IDE : Eclipse
-- Hardware : AMD 2200G(4core), RAM 8GB
+- Hardware : AMD RYZEN 2200G(4core) RAM 8GB
 
 ## <개발기간>
 - 2021년 6월(1주)
