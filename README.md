@@ -15,7 +15,7 @@
     
     <img src="./readme_media/security.png">
     
-    - 관리자 계정은 web.xml 시큐리티(security)활용
+    - 관리자 계정은 <a href = "https://github.com/kkhdss165/-project-JSP_Mall/blob/main/WebContent/WEB-INF/web.xml" >web.xml</a> 시큐리티(security)활용
     
     ### 상품 - 추가
     <img src="./readme_media/create_product.gif">
