@@ -12,6 +12,7 @@
     
     - 상품과 재고를 관리하기 위해 관리자 로그인 필요
     
+    
     <img src="./readme_media/security.png">
     
     - 관리자 계정은 web.xml 시큐리티(security)활용
